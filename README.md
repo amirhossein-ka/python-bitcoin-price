@@ -1,4 +1,5 @@
 # python-bitcoin-price
+
 this script needs requests library for python :
 pip3 install requests
 
